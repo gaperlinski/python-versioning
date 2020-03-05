@@ -1,6 +1,6 @@
 
 def main():
-    words = ["banana"]
+    words = ["banana", "unicorns"]
     for word in words:
         print(word)
 	
