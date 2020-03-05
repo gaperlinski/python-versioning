@@ -1,12 +1,8 @@
 
 def main():
-<<<<<<< HEAD
-    words = ["banana"]
-=======
-    words = ["banana","telephone","colour", "shepadoodle"]
 
+    words = ["banana", "broccoli", 'mamma',"cat", "shepadoodle"]
     for word in words:
         print(word)
-	
 
 main()
