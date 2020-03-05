@@ -4,5 +4,4 @@ def main():
     for word in words:
         print(word)
 	
-
 main()
